@@ -1,0 +1,18 @@
+# Site settings
+
+title: Corona - The Lockdown Log
+author: Mythreyi Ramesh
+email: mythreyi.1.618@gmail.com
+description: >-
+  This is a log of my activities during the compulsory suspension of activities due to COVID-19. Fueled by the desire to finally spend a break doing useful things, I am committing to this log.
+baseurl: "/corona"
+url: "https://rmythreyi.github.io/corona/"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Other settings
+show_excerpts: true

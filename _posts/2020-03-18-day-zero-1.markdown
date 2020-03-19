@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "[000] The Starting Point"
+date:   2020-03-18 10:40:44 +0530
+excerpt: Having been declared a pandemic, COVID-19 is already wreaking havoc.
+---
+
+Test Post
