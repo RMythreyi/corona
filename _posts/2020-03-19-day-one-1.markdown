@@ -2,7 +2,19 @@
 layout: post
 title:  "[001] Setting Up"
 date:   2020-03-19 22:40:44 +0530
-excerpt: Setting up the systems that will help me stick to the plan.
+excerpt: Setting up the systems that will help me stick to my writing goals.
 ---
 
-Test Post
+### Writing Progress
+
+One important goal I have set for myself is writing. In this regard, I have set up two "blogs" which serve different purposes. There's also a third one that I've planned, but I will start that once I know these two have gotten rolling. Setting up these websites took most of my time.
+
+The first one, [Insights](https://rmythreyi.github.io/insights/){:target="_blank"}, is where I've planned to write about my experience as an undergraduate student at IIT Madras. Irrespective of whether people are going to take the time to read, ponder and benefit from it, I still want to do my part. I want to leave the information and resources out there. There's always the side effect of me gaining more clarity because of the thought exercise that accompanies writing. I have used the theme [Hitchens](https://patdryburgh.github.io/hitchens/){:target="_blank"}, and setting up a remote theme took a while. I had to modify the way the posts' URLs and the asset URLs functioned in the layout files. But now, it's working well. I am not sure if pagination will have a problem later, but I can fix that when the need arises.
+
+The second one, [Corona](https://rmythreyi.github.io/corona/){:target="_blank"}, is the blog you are reading right now. I tried to find a suitable theme, and although there were options that were interesting, I felt the vanilla [Minima](https://jekyll.github.io/minima/){:target="_blank"} theme works best. The set-up didn't take as much time as the previous one.
+
+### COVID-19 Update
+
+Prime Minister Narendra Modi [addressed the nation](https://www.narendramodi.in/prime-minister-narendra-modi-s-address-to-the-nation-on-corona-virus-548844){:target="_blank"} at 8 PM IST. March 22, 2020 is going to be a "trial" lockdown of the entire nation. Deep down, I worry if we are too late, but hearing the PM's address is quite reassuring.
+
+Most of my friends have now reached home. For the first time, no matter which part of the world a person is in, the situation is simultaneously and uniformly non-ideal, and downright scary. During these times, all we can do is try to be there for each other (but from a safe distance). Technology is bringing people together and making sure not everyone drowns into loneliness. This is the first pandemic with so much connectivity, and we are living through history.
