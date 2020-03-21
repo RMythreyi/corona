@@ -9,7 +9,7 @@ excerpt: The tracking sheet for my reading goals.
 
 Ever since I heard about Thomas Frank's [reading accountability system](https://collegeinfogeek.com/25pages/){:target="_blank"}, I have been wanting to implement it in my life. So, I have made a sheet which I can use to track my reading progress (link is [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNBPS_v6iWKphkLI2sJ5VP91DHs0HaHp_3x7BBs1xobIIhNkgkYJmjdgdcr4PlF0x1BMgKnOXHc6l2/pubhtml?gid=1307999830&single=true){:target="_blank"}). For now, it only displays the title of the book and the number of pages I read per day, and I am not restricting it only to non-fiction like Thomas does. But, perhaps once I get going, I'll add more features and more constraints.
 
-I haven't yet read many books that I've purchased over the past four to five years. On top of this, I also have loads of e-books that I have curated over the past few years. My goal for this break is to start a habit rolling, where I read for at least one hour (on holidays) and half an hour (on working days).
+I haven't yet read many books that I've purchased over the past four to five years. On top of this, I also have loads of e-books that I have curated over the past few years. My goal for this break is to start a habit and get it rolling, where I read for at least one hour (on holidays) and half an hour (on working days).
 
 > "So many books, so little time!"
 
