@@ -11,6 +11,7 @@ url: "https://rmythreyi.github.io/corona/"
 # Build settings
 markdown: kramdown
 theme: minima
+timezone: Asia/Kolkata
 plugins:
   - jekyll-feed
 
