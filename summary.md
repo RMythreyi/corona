@@ -11,10 +11,10 @@ permalink: /summary/
 1. **Tamil**: Started reading Ponniyin Selvan and the text book.
 4. **PhD Preparation**: Almost zeroed in on the decision. But need to hurry up.
 5. **Bonding**: Organised some activities, more needed.
+4. **Organising**: Set up the books in the shelves, but must reshuffle. Also, need to organise photos.
 
 # To Do
 
 1. **Research**: Need to resume my Dual Degree Project.
 2. **Fitness**: Need to resume Yoga or start walking.
 3. **Cooking**: Need to learn because it's now or never.
-4. **Organising**: Books, photos, to start with.
