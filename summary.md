@@ -12,9 +12,9 @@ permalink: /summary/
 | :------------- | :------------- | | :------------- |
 | **Reading** | The [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNBPS_v6iWKphkLI2sJ5VP91DHs0HaHp_3x7BBs1xobIIhNkgkYJmjdgdcr4PlF0x1BMgKnOXHc6l2/pubhtml?gid=1307999830&single=true){:target="_blank"} to the reading accountability sheet. | [\[002\]]({{ site.baseurl }}/posts/2) [\[003\]]({{ site.baseurl }}/posts/3) [\[004\]]({{ site.baseurl }}/posts/4) [\[005\]]({{ site.baseurl }}/posts/5) [\[006\]]({{ site.baseurl }}/posts/6)|
 | **Writing** | Updating the current blog regularly. The second one needs to get going. | [\[001\]]({{ site.baseurl }}/posts/1) |
-| **PhD Preparation** | Made up my mind, must complete formalities. | [\[003\]]({{ site.baseurl }}/posts/3) [\[006\]]({{ site.baseurl }}/posts/6) |
-| **Bonding** | At home, we do some activities together. Must be more proactive for friends. | [\[004\]]({{ site.baseurl }}/posts/4) |
-| **Tamil** | Reading Ponniyin Selvan and Std 1 textbook. | [\[005\]]({{ site.baseurl }}/posts/5) [\[006\]]({{ site.baseurl }}/posts/6) |
+| **PhD Preparation** | Made up my mind, must complete formalities. | [\[003\]]({{ site.baseurl }}/posts/3) [\[006\]]({{ site.baseurl }}/posts/6) [\[007\]]({{ site.baseurl }}/posts/7) |
+| **Bonding** | At home, we do some activities together. Must be more proactive for friends. | [\[004\]]({{ site.baseurl }}/posts/4) [\[007\]]({{ site.baseurl }}/posts/7) |
+| **Tamil** | Reading Ponniyin Selvan and Std 1 textbook. | [\[005\]]({{ site.baseurl }}/posts/5) [\[006\]]({{ site.baseurl }}/posts/6) [\[007\]]({{ site.baseurl }}/posts/7) |
 | **Organising** | Must reshuffle books in shelves and organise photos. | [\[006\]]({{ site.baseurl }}/posts/6) |
 
 
