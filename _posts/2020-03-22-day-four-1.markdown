@@ -2,6 +2,7 @@
 layout: post
 title:  "[004] Janata Curfew"
 date:   2020-03-22 23:55:44 +0530
+permalink: /posts/4
 excerpt: India was in total lockdown, spent time with family.
 ---
 ### Reading Progress

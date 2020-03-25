@@ -2,10 +2,11 @@
 layout: post
 title:  "[000] The Starting Point"
 date:   2020-03-18 10:40:44 +0530
+permalink: /posts/0
 excerpt: Having been declared a pandemic, COVID-19 is already wreaking havoc.
 ---
 
-Sometime towards the end of January 2020, there was only a hint that the novel coronavirus would cause global impact. But, over the past couple of months, the situation has steadily worsened. WHO declared the disease a pandemic on March 11, 2020. The situation has remained [grim](https://www.who.int/emergencies/diseases/novel-coronavirus-2019){:target="_blank"} since then. 
+Sometime towards the end of January 2020, there was only a hint that the novel coronavirus would cause global impact. But, over the past couple of months, the situation has steadily worsened. WHO declared the disease a pandemic on March 11, 2020. The situation has remained [grim](https://www.who.int/emergencies/diseases/novel-coronavirus-2019){:target="_blank"} since then.
 
 On March 16, 2020, IIT Madras suspended classes until the end of the month. On March 17, 2020, an advisory was issued to all students asking them to leave the campus immediately. I reached home on March 18, 2020. Many of my friends who lived father from Chennai have had to spend a lot to get tickets, and even when they get tickets, the safety of the means of transport continues to remain murky. For now, all that one can do is hope that the situation gets better. Everyone must act for the common good and not individual benefit. These are testing times.
 

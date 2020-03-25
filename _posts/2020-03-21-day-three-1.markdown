@@ -2,6 +2,7 @@
 layout: post
 title:  "[003] Where to go for a PhD?"
 date:   2020-03-21 23:39:44 +0530
+permalink: /posts/3
 excerpt: Organising virtual meetings and pondering.
 ---
 
@@ -15,7 +16,7 @@ I am going to be a bit more organised about this decision. There are some upcomi
 
 ### Reading Progress
 
-I have started reading "The Murder of Roger Ackroyd" and the start was a bit slow. However, I'm making steady progress. I think I will reach the typical "point of no return" of any Agatha Christie book soon, and once I reach that tipping point, I'll finish the book in that same sitting! 
+I have started reading "The Murder of Roger Ackroyd" and the start was a bit slow. However, I'm making steady progress. I think I will reach the typical "point of no return" of any Agatha Christie book soon, and once I reach that tipping point, I'll finish the book in that same sitting!
 
 ### COVID-19 Update
 
