@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "[012] A Virtual Visit Day at Caltech "
+date:   2020-03-31 02:28:53 +0530
+permalink: /posts/12
+excerpt: It's true, you get to know the place soon enough.
+---
+### Fitness Progress
+
+I did some Yoga in the morning. I am afraid that it has become my excuse to carry on with the rest of the day majorly sedentarily.
+
+### Learning Tamil
+
+I tried reading a proper book today. The result wasn't too bad. I also made progress in learning the basics and have reached small sentences from words!
+
+### (Not really) Pondering about my PhD
+
+Today was Caltech Visit Day One! I attended some of the webinar panels: one on Computational Materials Science, and one on New Materials (which I expected on of my academic heroes to attend, but he unfortunately didn't). We also had individual sessions with a few of the professors, which included one of the authors of the textbook I used in one of my graduate level courses at IIT Madras, and also a potential future collaborator. I got a lot of academic advice from stalwarts in the field, which made the experience quite satisfying. I also got to meet some of my peers, most of whom have already completed their undergraduate education at reputed institutions like Caltech itself, Cornell, Berkeley etc... One big takeaway from this experience was that I did have a lot in common with others who are going to be in my cohort, wherever I end up going. I _will_ find chronic note takers like me, and obsessive undergrads who feasted on graduate level electives! It's going to be fun.
+
+### COVID-19 Update
+
+India saw it's biggest spike in cases (227 new cases) taking the total to over 1200. I think the lockdown is flattening the curve, but the next few days will be crucial, very crucial.
