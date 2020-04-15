@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[027] Something Old, Something New"
-date:   2020-04-14 15:22:50 +0530
+date:   2020-04-15 23:50:30 +0530
 permalink: /posts/27
 postdated: April 14, 2020
 excerpt: On Tamil New Year, some traditions continued, and some new ones began.

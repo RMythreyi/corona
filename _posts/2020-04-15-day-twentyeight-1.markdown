@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[028] Consultancy"
-date:   2020-04-14 15:22:50 +0530
+date:   2020-04-16 00:21:45 +0530
 permalink: /posts/28
 postdated: April 15, 2020
 excerpt: I spend extended hours today thinking about and discussing future opportunities that are a little off the beaten track.
