@@ -14,6 +14,7 @@ theme: minima
 timezone: Asia/Kolkata
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Other settings
 show_excerpts: true
