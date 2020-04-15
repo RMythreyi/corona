@@ -4,6 +4,7 @@ title:  "[008] Conversations and Cooking"
 date:   2020-03-26 23:10:44 +0530
 permalink: /posts/8
 excerpt: Talking to the right people definitely reassures the mind.
+postdated: March 26, 2020
 ---
 ### Pondering about my PhD (and bonding in the process)
 

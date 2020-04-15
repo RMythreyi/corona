@@ -4,6 +4,7 @@ title:  "[022] A Day of Conversations"
 date:   2020-04-13 00:22:50 +0530
 permalink: /posts/22
 excerpt: A day filled with conversations both intellectual and entertaining.
+postdated: April 09, 2020
 ---
 
 ### Fitness Progress

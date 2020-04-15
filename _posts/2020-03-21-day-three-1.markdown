@@ -4,6 +4,7 @@ title:  "[003] Where to go for a PhD?"
 date:   2020-03-21 23:39:44 +0530
 permalink: /posts/3
 excerpt: Organising virtual meetings and pondering.
+postdated: March 21, 2020
 ---
 
 ### Pondering about my PhD

@@ -4,6 +4,7 @@ title:  "[019] The Code Works!"
 date:   2020-04-12 23:49:10 +0530
 permalink: /posts/19
 excerpt: After more than a month of slow progress, the code seems to work.
+postdated: April 06, 2020
 ---
 
 ### Research Progress

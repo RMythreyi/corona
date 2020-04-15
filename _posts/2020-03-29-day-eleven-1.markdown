@@ -4,6 +4,7 @@ title:  "[011] I can read Tamil! "
 date:   2020-03-30 01:48:44 +0530
 permalink: /posts/11
 excerpt: My speed has significantly shot up!
+postdated: March 29, 2020
 ---
 ### Fitness Progress
 

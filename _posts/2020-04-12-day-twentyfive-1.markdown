@@ -4,6 +4,7 @@ title:  "[025] Some New Causes of Concern"
 date:   2020-04-14 15:02:00 +0530
 permalink: /posts/25
 excerpt: The worries aren't going to stop with getting admissions anymore.
+postdated: April 12, 2020
 ---
 
 ### Fitness Progress

@@ -4,6 +4,7 @@ title:  "[012] A Virtual Visit Day at Caltech "
 date:   2020-03-31 02:28:53 +0530
 permalink: /posts/12
 excerpt: It's true, you get to know the place soon enough.
+postdated: March 30, 2020
 ---
 ### Fitness Progress
 

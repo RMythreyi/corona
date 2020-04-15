@@ -4,6 +4,7 @@ title:  "[001] Setting Up"
 date:   2020-03-19 22:40:44 +0530
 permalink: /posts/1
 excerpt: Setting up the systems that will help me stick to my writing goals.
+postdated: March 19, 2020
 ---
 
 ### Writing Progress

@@ -4,6 +4,7 @@ title:  "[024] Minor Progress on Many Fronts"
 date:   2020-04-14 00:31:50 +0530
 permalink: /posts/24
 excerpt: After a couple of days of laziness, slowly moving back on track.
+postdated: April 11, 2020
 ---
 
 ### Fitness

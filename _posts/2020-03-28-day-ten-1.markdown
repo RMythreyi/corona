@@ -4,6 +4,7 @@ title:  "[010] The Off-Day"
 date:   2020-03-29 01:12:44 +0530
 permalink: /posts/10
 excerpt: That one day where you lose enthusiasm and feel a bit down is here.
+postdated: March 28, 2020
 ---
 
 ### Reading Progress

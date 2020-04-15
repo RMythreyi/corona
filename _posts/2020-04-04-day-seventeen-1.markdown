@@ -4,6 +4,7 @@ title:  "[017] Helping out friends"
 date:   2020-04-04 23:46:50 +0530
 permalink: /posts/17
 excerpt: Lowest clocked working hours with the switch back to IST from CDT.
+postdated: April 04, 2020
 ---
 
 ### Bonding

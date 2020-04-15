@@ -4,6 +4,7 @@ title:  "[018] The Bonding's Back"
 date:   2020-04-12 23:41:50 +0530
 permalink: /posts/18
 excerpt: The regular evening bonding activity has restarted!
+postdated: April 05, 2020
 ---
 
 ### Research Progress

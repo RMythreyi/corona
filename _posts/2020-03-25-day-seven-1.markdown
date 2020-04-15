@@ -4,6 +4,7 @@ title:  "[007] A Grant Proposal"
 date:   2020-03-26 01:32:44 +0530
 permalink: /posts/7
 excerpt: My fear of grant proposals was unfounded; not anymore.
+postdated: March 25, 2020
 ---
 ### Pondering about my PhD (& actually doing something about it)
 

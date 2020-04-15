@@ -4,6 +4,7 @@ title:  "[021] A Hot & Cold Day"
 date:   2020-04-13 00:07:50 +0530
 permalink: /posts/21
 excerpt: It was a perfect mix of some of the best and worst things at once.
+postdated: April 08, 2020
 ---
 
 ### Fitness Progress

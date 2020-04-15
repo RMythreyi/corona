@@ -4,6 +4,7 @@ title:  "[014] Tamil Learning Frenzy"
 date:   2020-04-02 00:08:53 +0530
 permalink: /posts/14
 excerpt: Completed nearly all basic building blocks needed for writing in Tamil!
+postdated: April 01, 2020
 ---
 
 ### Research Progress
@@ -20,4 +21,4 @@ I helped in the preparation of some home-made snacks today. It didn't come out a
 
 ### COVID-19 Update
 
-The number of new cases crossed 1800 in India, with 110 new cases in Tamil Nadu today. All of these cases can be traced to the congregation in Delhi that seems to have spread a lot of COVID-19 cases in India. The new cases in my own city has shot up to 30 or so today. However, we are all very impressed by how the TN Government is handling the situation. They deserve a lot of respect for selflessly toiling at this time of dire need. I am also hearing slowly that many people I know no longer have jobs, because some companies are rescinding offers they already made. This is an awful situation, but I really hope we all can pull this off. 
+The number of new cases crossed 1800 in India, with 110 new cases in Tamil Nadu today. All of these cases can be traced to the congregation in Delhi that seems to have spread a lot of COVID-19 cases in India. The new cases in my own city has shot up to 30 or so today. However, we are all very impressed by how the TN Government is handling the situation. They deserve a lot of respect for selflessly toiling at this time of dire need. I am also hearing slowly that many people I know no longer have jobs, because some companies are rescinding offers they already made. This is an awful situation, but I really hope we all can pull this off.

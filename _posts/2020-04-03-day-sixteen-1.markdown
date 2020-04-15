@@ -4,6 +4,7 @@ title:  "[016] Northwestern Visit Day 2"
 date:   2020-04-04 05:30:53 +0530
 permalink: /posts/16
 excerpt: What an action packed virtual day!
+postdated: April 03, 2020
 ---
 
 ### Pondering (no more) about my PhD

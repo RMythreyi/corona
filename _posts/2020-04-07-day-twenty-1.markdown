@@ -4,6 +4,7 @@ title:  "[020] The Cheer is Back!"
 date:   2020-04-12 23:57:20 +0530
 permalink: /posts/20
 excerpt: After over five months, I made a positive contribution to work!
+postdated: April 07, 2020
 ---
 
 ### Fitness Progress

@@ -4,6 +4,7 @@ title:  "[006] Setting up the Bookshelves"
 date:   2020-03-24 23:45:44 +0530
 permalink: /posts/6
 excerpt: No amount of bookshelf space is ever enough?
+postdated: March 24, 2020
 ---
 ### Organising Books
 

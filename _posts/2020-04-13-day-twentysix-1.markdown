@@ -4,6 +4,7 @@ title:  "[026] A Day of Deep Discussions"
 date:   2020-04-14 15:22:50 +0530
 permalink: /posts/26
 excerpt: Spoke to many, also got spoken to by many. Interesting day.
+postdated: April 13, 2020
 ---
 
 ### Fitness Progress

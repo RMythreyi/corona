@@ -4,6 +4,7 @@ title:  "[023] Codenames Fun"
 date:   2020-04-13 14:40:00 +0530
 permalink: /posts/23
 excerpt: Spent sometime with friends playing Codenames online.
+postdated: April 10, 2020
 ---
 
 ### Fitness Progress

@@ -4,6 +4,7 @@ title:  "[015] Northwestern Visit Day 1"
 date:   2020-04-03 03:30:53 +0530
 permalink: /posts/15
 excerpt: Excitement was evident, and I am more reassured of my choice now.
+postdated: April 02, 2020
 ---
 
 ### Research Progress

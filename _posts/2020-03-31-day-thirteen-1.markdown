@@ -4,6 +4,7 @@ title:  "[013] Deep Conversations"
 date:   2020-04-01 01:28:53 +0530
 permalink: /posts/13
 excerpt: Spent a long time connecting with people, and it was worth it.
+postdated: March 31, 2020
 ---
 
 ### Fitness Progress
