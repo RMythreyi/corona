@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[030] Creating the RG Form"
-date:   2020-04-17 01:00:20 +0530
+date:   2020-04-18 23:40:20 +0530
 permalink: /posts/30
 postdated: April 17, 2020
 excerpt: Marking a year since the same exercise last year, let's see what happens this year.
