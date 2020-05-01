@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[041] Impromptu Karaoke"
-date:   2020-05-01 00:38:38 +0530
+date:   2020-05-02 00:38:38 +0530
 permalink: /posts/41
 postdated: April 28, 2020
 excerpt: It was unplanned. But, unplanned fun is the best type of fun.

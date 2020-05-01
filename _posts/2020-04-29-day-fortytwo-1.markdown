@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[042] Hurriedly Catching Up?"
-date:   2020-05-01 00:48:54 +0530
+date:   2020-05-02 00:48:54 +0530
 permalink: /posts/42
 postdated: April 29, 2020
 excerpt: After a long period of silence, new posts are finally trickling in.

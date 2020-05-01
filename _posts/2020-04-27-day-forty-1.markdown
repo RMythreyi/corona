@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[040] Creating Tough Questions"
-date:   2020-05-01 00:30:00 +0530
+date:   2020-05-02 00:30:00 +0530
 permalink: /posts/40
 postdated: April 27, 2020
 excerpt: Making questions is tough, tougher than even answering them.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[039] I can win at Codenames!"
-date:   2020-04-30 23:31:41 +0530
+date:   2020-05-01 23:31:41 +0530
 permalink: /posts/39
 postdated: April 26, 2020
 excerpt: After many unsuccessful games, my team finally won today! TWICE!

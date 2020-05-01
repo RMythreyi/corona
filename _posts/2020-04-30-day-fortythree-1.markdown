@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[043] New Materials Modelling SE Site!"
-date:   2020-05-01 01:30:02 +0530
+date:   2020-05-02 01:30:02 +0530
 permalink: /posts/43
 postdated: April 30, 2020
 excerpt: I am participating in the private beta for the Stack Exchange site, and I hope that it gets through.
