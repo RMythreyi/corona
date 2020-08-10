@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 .DS_Store
 todo.txt
+.ruby-version
+lockdown.gemspec
+vendor/
+.jekyll-cache
